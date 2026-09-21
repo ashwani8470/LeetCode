@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ashwani8470/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashwani8470/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 ## Binary Search
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashwani8470/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ashwani8470/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->

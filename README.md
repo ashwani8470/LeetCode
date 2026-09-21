@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ashwani8470/LeetCode/tree/master/0001-two-sum) |
+## Database
+|  |
+| ------- |
+| [1934-confirmation-rate](https://github.com/ashwani8470/LeetCode/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->

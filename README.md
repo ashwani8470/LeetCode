@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ashwani8470/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashwani8470/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ashwani8470/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashwani8470/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ashwani8470/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -18,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ashwani8470/LeetCode/tree/master/0001-two-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ashwani8470/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Database
 |  |
 | ------- |
@@ -26,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-percentage-of-users-attended-a-contest](https://github.com/ashwani8470/LeetCode/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1934-confirmation-rate](https://github.com/ashwani8470/LeetCode/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ashwani8470/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Sliding Window
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ashwani8470/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Prefix Sum
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ashwani8470/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->

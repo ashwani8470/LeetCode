@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ashwani8470/LeetCode/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/ashwani8470/LeetCode/tree/master/0091-decode-ways) |
 | [0140-word-break-ii](https://github.com/ashwani8470/LeetCode/tree/master/0140-word-break-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/ashwani8470/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ashwani8470/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ashwani8470/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ashwani8470/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->

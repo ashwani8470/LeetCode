@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/ashwani8470/LeetCode/tree/master/0091-decode-ways) |
 | [0140-word-break-ii](https://github.com/ashwani8470/LeetCode/tree/master/0140-word-break-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/ashwani8470/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/ashwani8470/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |

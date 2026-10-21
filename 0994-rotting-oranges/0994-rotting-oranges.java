@@ -9,8 +9,6 @@ class Solution {
         Queue<int[]> q = new LinkedList<>();
         int fresh = 0;
         int minutes = 0;
-
-        // Add all initially rotten oranges to the queue
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 if (grid[i][j] == 2) {

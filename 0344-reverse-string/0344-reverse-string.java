@@ -1,9 +1,8 @@
 class Solution {
     public void reverseString(char[] s) {
-     //Approach 1 beats beats 28.59
-       int n= s.length;  
+     //Approach 1 beats beats 28.59 
      int i=0;
-       int j=n-1;
+       int j=s.length-1;
        while(i<j){
         char temp=s[i];
         s[i]=s[j];

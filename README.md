@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ashwani8470/LeetCode/tree/master/0001-two-sum) |
 | [0140-word-break-ii](https://github.com/ashwani8470/LeetCode/tree/master/0140-word-break-ii) |
+| [0242-valid-anagram](https://github.com/ashwani8470/LeetCode/tree/master/0242-valid-anagram) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ashwani8470/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Database
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ashwani8470/LeetCode/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/ashwani8470/LeetCode/tree/master/0091-decode-ways) |
 | [0140-word-break-ii](https://github.com/ashwani8470/LeetCode/tree/master/0140-word-break-ii) |
+| [0242-valid-anagram](https://github.com/ashwani8470/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ashwani8470/LeetCode/tree/master/0344-reverse-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ashwani8470/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [2409-count-days-spent-together](https://github.com/ashwani8470/LeetCode/tree/master/2409-count-days-spent-together) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ashwani8470/LeetCode/tree/master/0242-valid-anagram) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ashwani8470/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Breadth-First Search
 |  |

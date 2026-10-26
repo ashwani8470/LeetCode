@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ashwani8470/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ashwani8470/LeetCode/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/ashwani8470/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/ashwani8470/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/ashwani8470/LeetCode/tree/master/0994-rotting-oranges) |
 | [1480-running-sum-of-1d-array](https://github.com/ashwani8470/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ashwani8470/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ashwani8470/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ashwani8470/LeetCode/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/ashwani8470/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/ashwani8470/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Manacher
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ashwani8470/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ashwani8470/LeetCode/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/ashwani8470/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/ashwani8470/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ashwani8470/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Breadth-First Search
 |  |

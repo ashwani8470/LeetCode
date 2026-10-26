@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ashwani8470/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashwani8470/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0140-word-break-ii](https://github.com/ashwani8470/LeetCode/tree/master/0140-word-break-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashwani8470/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ashwani8470/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashwani8470/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ashwani8470/LeetCode/tree/master/0217-contains-duplicate) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashwani8470/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashwani8470/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashwani8470/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ashwani8470/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashwani8470/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ashwani8470/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ashwani8470/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashwani8470/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ashwani8470/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ashwani8470/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ashwani8470/LeetCode/tree/master/0344-reverse-string) |

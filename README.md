@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ashwani8470/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashwani8470/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ashwani8470/LeetCode/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/ashwani8470/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ashwani8470/LeetCode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/ashwani8470/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashwani8470/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ashwani8470/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ashwani8470/LeetCode/tree/master/0189-rotate-array) |
 | [2409-count-days-spent-together](https://github.com/ashwani8470/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ashwani8470/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ashwani8470/LeetCode/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/ashwani8470/LeetCode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/ashwani8470/LeetCode/tree/master/0994-rotting-oranges) |
 ## Simulation

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ashwani8470/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ashwani8470/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ashwani8470/LeetCode/tree/master/0283-move-zeroes) |
+| [0867-transpose-matrix](https://github.com/ashwani8470/LeetCode/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/ashwani8470/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ashwani8470/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/ashwani8470/LeetCode/tree/master/0994-rotting-oranges) |
@@ -146,5 +147,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/ashwani8470/LeetCode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/ashwani8470/LeetCode/tree/master/0994-rotting-oranges) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/ashwani8470/LeetCode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->

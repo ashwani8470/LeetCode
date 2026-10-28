@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ashwani8470/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashwani8470/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/ashwani8470/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashwani8470/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ashwani8470/LeetCode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/ashwani8470/LeetCode/tree/master/0048-rotate-image) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ashwani8470/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/ashwani8470/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashwani8470/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ashwani8470/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ashwani8470/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ashwani8470/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/ashwani8470/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ashwani8470/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ashwani8470/LeetCode/tree/master/0242-valid-anagram) |

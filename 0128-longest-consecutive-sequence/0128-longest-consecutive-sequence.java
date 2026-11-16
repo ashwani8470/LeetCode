@@ -1,5 +1,5 @@
 //Approach 1 = O(nlogn)
-/*
+
 class Solution {
     public int longestConsecutive(int[] nums) {
         int n = nums.length;
@@ -31,8 +31,8 @@ class Solution {
 
         return count;
     }
-}*/
-
+}
+/*
 import java.util.*;
 
 class Solution {
@@ -65,4 +65,4 @@ class Solution {
 
         return maxCount;
     }
-}
+}*/

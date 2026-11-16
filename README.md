@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ashwani8470/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ashwani8470/LeetCode/tree/master/0283-move-zeroes) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ashwani8470/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0518-coin-change-ii](https://github.com/ashwani8470/LeetCode/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ashwani8470/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0867-transpose-matrix](https://github.com/ashwani8470/LeetCode/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/ashwani8470/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/ashwani8470/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashwani8470/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0140-word-break-ii](https://github.com/ashwani8470/LeetCode/tree/master/0140-word-break-ii) |
+| [0518-coin-change-ii](https://github.com/ashwani8470/LeetCode/tree/master/0518-coin-change-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ashwani8470/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
 |  |
@@ -190,4 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ashwani8470/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/ashwani8470/LeetCode/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/ashwani8470/LeetCode/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
